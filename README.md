@@ -3,7 +3,7 @@
 Sample python app to learn the concepts of type hinting and more specifically setting up a cicd pipeline with pre commit so that any bugs are identified during pre commit itself.
 
 ### Project structure
-
+```text
 root/
 │
 ├── src/
@@ -24,3 +24,4 @@ root/
 ├── pyproject.toml
 ├── requirements-dev.txt
 └── README.md
+```
